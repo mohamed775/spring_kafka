@@ -1,4 +1,4 @@
-package com.globel.system;
+package com.globel.system.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
